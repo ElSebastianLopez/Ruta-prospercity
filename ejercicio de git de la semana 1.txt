@@ -1,0 +1,34 @@
+Primera Semana de la Ruta de Aprendizaje.
+
+
+
+
+
+Andrés Mauricio Martínez
+
+
+
+
+
+Sebastián López Giraldo
+
+
+
+
+
+
+Pensilvania Caldas
+2022
+
+
+
+
+
+
+
+Se inicio el proceso de desarrollo web con un curso de historia de la programación, donde se habló un poco de como inicio y como se crearon los lenguajes de programación que se conocen hoy en día, se abordaron temas propios de la programación como lo son los paradigmas que existen y en qué consisten cada uno de ellos, acompañados de ejemplos en distintos lenguajes que nos ayudan a mejorar la comprensión de código que no es de nuestra autoría.
+El hecho de que hallan tanta diversidad de lenguajes de programación también se debe a que cada lenguaje está ligado a un propósito en específico el cual varía dependiendo el mercado al que va dirigido, entonces no es lo mismo utilizar Python para el front-end que JavaScript, aunque se puede,  lo ideal es investigar que se requiere para realizar determinado proyecto y mirar el lenguaje que más se acerca a cumplir las necesidades requeridas  por el proyecto.
+Continuando con esta ruta como segundo curso me encontré con un contenido que me enseñaba que son los Algoritmos y el Pensamiento Lógico, se me dio una definición de lo que es una variable, una función, un tipo de dato, diagrama de flujo entre otras, además en el curso se plantearon  unos problemas que me ayudaban a ejercitar mi pensamiento lógico, y les podía dar una solución por medio de un diagrama de flujo y luego de esto los plasmaba en un lenguaje de programación.
+También me entere que los acertijos y los problemas matemáticos me ayudan a mejorar mi pensamiento lógico, habilidad que es necesaria para ser un desarrollador  web.
+Como tercer curso de esta primera semana nos encontramos con la  Introducción a la Web: Historia y Funcionamiento de Internet, contenido con el cual entendí y aprendí como nace la web, como nace el internet, los protocolos que utiliza la web, los pasos que debe hacer una máquina para mostrar lo que vemos en una página web, aprendí sobre el uso de html,css js, tres tecnologías que son las que componen la web como la conocemos hoy en día.
+
